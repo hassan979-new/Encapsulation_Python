@@ -1,5 +1,5 @@
 
-# 🧮 Patrons de conception
+# 🧮 Encapsulation
 
 ## 📘 Description
 
@@ -88,16 +88,10 @@ Méthodes :
 - afficher() : affiche le nom du client et les informations de ses comptes
 ## 🖥️ Example Execution
 
-
-### Séparer proprement une classe unique :
-
-### Mini-bibliothèque géométrique : 
-
-### Création d’une librairie statique (.a) ou partagée (.so) :
-
-### Classe template et fichier d’en-tête uniquement :
-
-
+### Gestion de compte bancaire :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/11335f6c-1df9-496e-813a-4c985548a53d" />
+### Gestion multi-comptes : 
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/757f7ee6-b765-41f4-bb16-d75ee89ab21b" />
 ## 💡 Concepts Practiced
 
 - Différencier les attributs de classe et d’instance
